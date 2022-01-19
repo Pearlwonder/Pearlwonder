@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pearlwonder
 - 👀 I’m interested in Front-End web-development 
-- 🌱 I’m currently learning at Thinkful 
+- 🌱 I’m currently a Self-Taught developer 
 - 📫 How to reach me @Jordan.Perez1080@gmail.com
 
 <!---
